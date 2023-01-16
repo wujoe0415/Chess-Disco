@@ -1,0 +1,4 @@
+repository "ChessDisco@GreenLeaf0w0@cloud"
+  path "/"
+    br "/main"
+    co "/main"
